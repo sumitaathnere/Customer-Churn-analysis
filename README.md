@@ -61,3 +61,10 @@ Pandas – to clean and work with the data
 Matplotlib & Seaborn – to make graphs and charts
 
 Jupyter Notebook – to do all the analysis step-by-step
+
+📬 Contact
+=
+If you have any questions, feedback, or suggestions, feel free to reach out!
+😊 Email: sumitaathnere7@gmail.com
+
+⭐ Enjoy Exploring the Diwali Sales Data with Python and Jupyter Notebook!
